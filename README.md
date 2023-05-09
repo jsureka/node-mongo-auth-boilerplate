@@ -6,7 +6,7 @@ Feel free to make an issue or PR if you want to suggest ideas / fixes.
 
 ## About
 
-This configuration is a backend [RESTful API](https://en.wikipedia.org/wiki/Representational_state_transfer) boilerplate with the following pieces:
+This configuration is a backend [RESTful API](https://en.wikipedia.org/wiki/Representational_state_transfer)authentication boilerplate with the following pieces:
 
 - [Node.js](https://nodejs.org/en/) (Long-Term-Support Version) as the run-time environment to run JavaScript.
 - [Express.js](https://expressjs.com/) as the server framework / controller layer
